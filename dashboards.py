@@ -1,8 +1,8 @@
 # Monthly overview
-# Sales per business unit
-# Best-selling product type and contribution by branch
-# Performance of payment methods...
-# How are branch reviews?
+# Sales by business unit
+# Best-selling product type and contribution per business unit
+# Performance of payment methods
+# Feedback by business unit
 
 import streamlit as st
 import pandas as pd
