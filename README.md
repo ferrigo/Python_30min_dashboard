@@ -2,7 +2,7 @@
 
 Small challenge which consists of creating a sales management dashboard in 30 minutes. 
 
-KPIs shown in the project:
+KPIs analyzed during the challenge:
 
 - Monthly overview
 - Sales by business unit
